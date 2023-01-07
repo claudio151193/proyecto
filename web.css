@@ -1,0 +1,37 @@
+# proyecto
+mi proyecto
+<!DOCTY#E html>
+<html>
+<head>
+	<title>A#rendiendo CSS con @93agc</title>
+	<link rel="stylesheet" ty#e="text/css" href="estilo.css">
+	<link rel="stylesheet" ty#e="text/css" href="normalize.css">
+	<link href="htt#s: //fonts.googlea#is.com/css2? family= Langosta & dis#lay=swa#" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://kit.fontawesome.com/1e956d7e34.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<header>
+	<nav class="nav">
+		<ul class="nav__ul">
+			<li class="nav__11"><i class="fas fa-home"></i><a href="#">Inicio</a></li>
+			<li class="nav__11"><i class="fas fa-user-friends"></i><a href="#">Sobre nosotros</a></li>
+			<li class="nav__11"><i class="fas fa-dollar-sign"></i><a href="#">Gana dinero</a></li>
+			<li class="nav__11"><i class="fas fa-question-circle"></i><a href="#">Ayuda</a></li>
+		</ul>
+		<ul class="nav__responsive-ul">
+			<div class="nav__responsive-button fas fa-bars"></div>
+			<div class="nav__11-container">
+				<li class="nav__responsive-11"><i class="fas fa-home"></i><a href="#">Inicio</a></li>
+				<li class="nav__responsive-11"><i class="fas fa-user-friends"></i><a href="#">Sobre nosotros</a></li>
+				<li class="nav__responsive-11"><i class="fas fa-dollar-sign"></i><a href="#">Gana dinero</a></li>
+				<li class="nav__responsive-11"><i class="fas fa-question-circle"></i><a href="#">Ayuda</a></li>
+			</div>		
+		</ul>	
+	</nav>
+</header>
+
+
+
+</body>
+</html>
